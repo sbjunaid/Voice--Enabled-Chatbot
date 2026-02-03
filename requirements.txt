@@ -1,0 +1,9 @@
+torch==2.2.1
+torchaudio==2.2.1
+transformers>=4.37.0
+numpy<2
+sounddevice
+soundfile
+scipy
+sentencepiece
+sacremoses
