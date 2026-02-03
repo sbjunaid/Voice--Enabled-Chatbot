@@ -28,8 +28,6 @@ Speaker Output
 ---
 
 
----
-
 ## 🧩 Models Used
 
 ### 🔹 Speech-to-Text (STT)
